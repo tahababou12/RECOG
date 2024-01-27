@@ -8,7 +8,7 @@ This project consists of making an Android application that automatically captur
 
 ## How it works:
 
-The application operates by capturing images at regular intervals, typically every few seconds. Each image is then converted into a Base64 encoded format, which represents binary data in an ASCII string format. This encoded image is subsequently transmitted to a dedicated server for further processing.
+The application operates by capturing images at regular intervals, typically every few seconds. Each image is converted into a Base64 encoded format, representing binary data in an ASCII string format. This encoded image is subsequently transmitted to a dedicated server for further processing.
 
 Upon receiving the image, the server decodes it from its Base64 format to its original form. The decoded image is then temporarily stored on the server. During this phase, the server applies various enhancement techniques to the image. These enhancements include adjusting the image's color, contrast, and sharpness. The objective of these modifications is to accentuate the details of individual objects within the image, making them more distinct and easier to recognize.
 
@@ -25,7 +25,7 @@ Finally, the server converts this information into a descriptive string. This st
 2. Download the APK, and install the app on your phone
 3. After installation, open the app; everything should work perfectly.
 
-<i>Note: This app can only be used on an Android smartphone that has a working camera</i>
+<i>Note: This app can only be used on an Android smartphone that has a functioning camera</i>
 
 ---
 [Demo Video](https://www.youtube.com/watch?v=xvoobCyBV2U)
