@@ -1,7 +1,5 @@
 # RECOG: Object Recognizer App
 
-    Contributors: Taha Ababou, Joel Akerman, Manuel Segimon, Jakub Zolkos, Axel Sariel
-
 <img src="https://i.ibb.co/fDn57tx/Screenshot-2024-01-26-at-11-52-01-PM.png">
 
 This project consists of making an Android application that automatically captures pictures, names the objects, and gives their location. This app is intended to help visually impaired people so that they can know what is in front of them by just opening the app. Our UI is made in a way that the user doesn’t need to take pictures. The app itself is going to take pictures and analyze them every couple of seconds by default.
