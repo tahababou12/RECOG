@@ -29,3 +29,4 @@ Finally, the server converts this information into a descriptive string. This st
 [Demo Video](https://www.youtube.com/watch?v=xvoobCyBV2U)
 
 We appreciate your interest in our app. There will be updates soon!
+<!--  -->
